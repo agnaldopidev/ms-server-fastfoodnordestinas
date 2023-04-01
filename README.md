@@ -40,4 +40,4 @@ $ cd ms-server-fastfoodnordestinas
 Esse projeto foi contruido pelo curso do alura cursos professora Jaqueline Oiveira [https://github.com/jacqueline-oliveira]: 
 
 [java]: https://www.java.com/pt-BR/
-[spring boot]: https://spring.io/
+[springboot]: https://spring.io/
